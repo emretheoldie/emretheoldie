@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emretheoldie
 - 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on Frontende Web Development
+- 🤝 I’m looking to collaborate on Web Development
 - 📫 How to reach me from mehmetemrebekci@gmail.com
 
 <!---
